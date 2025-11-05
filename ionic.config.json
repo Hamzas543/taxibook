@@ -1,0 +1,16 @@
+{
+  "name": "Hamza Bot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "projects": {
+    "app": {
+      "name": "Hamza Bot",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "react"
+    }
+  }
+}
