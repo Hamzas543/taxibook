@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hamza Bot</string>
+    <string name="title_activity_main">Hamza Bot</string>
+    <string name="package_name">com.hamzabot.taxi</string>
+    <string name="custom_url_scheme">com.hamzabot.taxi</string>
+</resources>
